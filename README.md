@@ -267,7 +267,7 @@ Server running on port 5000
 The backend is deployed on Render.
 
 🔗 Deployed URL
-https://<your-render-app>.onrender.com
+[https://<your-render-app>.onrender.com](https://farmlokal-backend-assignments.onrender.com)
 The deployed environment mirrors the local setup for consistency.
 
 
